@@ -1,4 +1,4 @@
-# FuckFlatDeisgn Cydia Repository
+# FuckFlatDesign Cydia Repository
 
 French/English Description Soon....
 
